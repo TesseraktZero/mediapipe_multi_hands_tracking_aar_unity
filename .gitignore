@@ -83,3 +83,5 @@ lint/tmp/
 # lint/reports/
 
 **/mp_hand_aar.aar
+
+.history
