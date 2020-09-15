@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/mp_multi_hand_aar.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

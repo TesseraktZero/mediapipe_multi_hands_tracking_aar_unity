@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1660417f-6f7b-4f1d-b9a1-5d1855377eae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_Accelerated_x86_Nougat" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLwmPpLqf7yUitWH4eKluR5dar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="LGH930ce31efc7" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-29T12:47:25.471Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1660417f-6f7b-4f1d-b9a1-5d1855377eae" name="Default Changelist" comment="" />
+      <created>1596010838371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596010838371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1082" y="230" key="#xdebugger.evaluate" timestamp="1596022016122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="230" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596022016122" />
+    <state x="815" y="285" key="AndroidProcessChooserDialog" timestamp="1596032633986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596032633986" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1596025050453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596025050453" />
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021609815" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021472220" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021472220" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021472220" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021472220" />
+    <state width="1877" height="321" key="GridCell.Tab.1.bottom" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021474084" />
+    <state width="1877" height="321" key="GridCell.Tab.1.center" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021474083" />
+    <state width="1877" height="321" key="GridCell.Tab.1.left" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021474083" />
+    <state width="1877" height="321" key="GridCell.Tab.1.right" timestamp="1596037096838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596037096838" />
+    <state width="1877" height="218" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596021474084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/MainActivity.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/MainActivity.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/MainActivity.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>94</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>83</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>55</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>56</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7632199dd66df988bc894914731e8a8/mp_multi_hand_aar/jars/classes.jar!/com/google/mediapipe/components/CameraXPreviewHelper.class</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>249</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/CameraXPreviewHelper2.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mediapipemultihandstrackingapp/MainActivity.java</url>
+          <line>121</line>
+          <properties method="surfaceChanged" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

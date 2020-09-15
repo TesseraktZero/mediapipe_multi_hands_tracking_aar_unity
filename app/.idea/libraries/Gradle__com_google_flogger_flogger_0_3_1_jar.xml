@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.flogger:flogger:0.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.3.1/585030fe1ec709760cbef997a459729fb965df0e/flogger-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.3.1/2f51ee5f44300349d9928c20b193df40b8b287f2/flogger-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.3.1/5866d14d952985a853af2a72d59301f187136cbb/flogger-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
